@@ -107,8 +107,8 @@ id: Botswana
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Botswana//
-markerFolder: ./Botswana//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Botswana] 

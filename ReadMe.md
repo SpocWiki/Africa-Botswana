@@ -21,7 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- BWA
 - Botswana
 - بوتسوانا
 - 博茨瓦纳

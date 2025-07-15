@@ -40,11 +40,18 @@ markerFolder: ./Sowa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Botswana/Counties/Sowa|Sowa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Botswana/Counties/Sowa.public|Sowa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Botswana/Counties/Sowa.internal|Sowa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Botswana/Counties/Sowa.protect|Sowa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Botswana/Counties/Sowa.private|Sowa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Botswana/Counties/Sowa.personal|Sowa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Botswana/Counties/Sowa.secret|Sowa.secret]] 
+
+### #is_/same_as :: [Sowa](/_Standards/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Sowa.md) 
+
+### #is_/same_as :: [Sowa.public](/_public/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Sowa.public.md) 
+
+### #is_/same_as :: [Sowa.internal](/_internal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Sowa.internal.md) 
+
+### #is_/same_as :: [Sowa.protect](/_protect/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Sowa.protect.md) 
+
+### #is_/same_as :: [Sowa.private](/_private/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Sowa.private.md) 
+
+### #is_/same_as :: [Sowa.personal](/_personal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Sowa.personal.md) 
+
+### #is_/same_as :: [Sowa.secret](/_secret/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Sowa.secret.md)
 

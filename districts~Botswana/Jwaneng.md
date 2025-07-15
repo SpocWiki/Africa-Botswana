@@ -40,11 +40,18 @@ markerFolder: ./Jwaneng/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Botswana/Counties/Jwaneng|Jwaneng]] 
-- [[../../../../../../_public/geo/Continent/Africa/Botswana/Counties/Jwaneng.public|Jwaneng.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Botswana/Counties/Jwaneng.internal|Jwaneng.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Botswana/Counties/Jwaneng.protect|Jwaneng.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Botswana/Counties/Jwaneng.private|Jwaneng.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Botswana/Counties/Jwaneng.personal|Jwaneng.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Botswana/Counties/Jwaneng.secret|Jwaneng.secret]] 
+
+### #is_/same_as :: [Jwaneng](/_Standards/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Jwaneng.md) 
+
+### #is_/same_as :: [Jwaneng.public](/_public/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Jwaneng.public.md) 
+
+### #is_/same_as :: [Jwaneng.internal](/_internal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Jwaneng.internal.md) 
+
+### #is_/same_as :: [Jwaneng.protect](/_protect/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Jwaneng.protect.md) 
+
+### #is_/same_as :: [Jwaneng.private](/_private/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Jwaneng.private.md) 
+
+### #is_/same_as :: [Jwaneng.personal](/_personal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Jwaneng.personal.md) 
+
+### #is_/same_as :: [Jwaneng.secret](/_secret/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Jwaneng.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Kweneng/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Botswana/Counties/Kweneng|Kweneng]] 
-- [[../../../../../../_public/geo/Continent/Africa/Botswana/Counties/Kweneng.public|Kweneng.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Botswana/Counties/Kweneng.internal|Kweneng.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Botswana/Counties/Kweneng.protect|Kweneng.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Botswana/Counties/Kweneng.private|Kweneng.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Botswana/Counties/Kweneng.personal|Kweneng.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Botswana/Counties/Kweneng.secret|Kweneng.secret]] 
+
+### #is_/same_as :: [Kweneng](/_Standards/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kweneng.md) 
+
+### #is_/same_as :: [Kweneng.public](/_public/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kweneng.public.md) 
+
+### #is_/same_as :: [Kweneng.internal](/_internal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kweneng.internal.md) 
+
+### #is_/same_as :: [Kweneng.protect](/_protect/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kweneng.protect.md) 
+
+### #is_/same_as :: [Kweneng.private](/_private/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kweneng.private.md) 
+
+### #is_/same_as :: [Kweneng.personal](/_personal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kweneng.personal.md) 
+
+### #is_/same_as :: [Kweneng.secret](/_secret/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kweneng.secret.md)
 

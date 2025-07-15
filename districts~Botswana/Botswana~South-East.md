@@ -40,11 +40,18 @@ markerFolder: ./South-East/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Botswana/Counties/South-East|South-East]] 
-- [[../../../../../../_public/geo/Continent/Africa/Botswana/Counties/South-East.public|South-East.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Botswana/Counties/South-East.internal|South-East.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Botswana/Counties/South-East.protect|South-East.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Botswana/Counties/South-East.private|South-East.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Botswana/Counties/South-East.personal|South-East.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Botswana/Counties/South-East.secret|South-East.secret]] 
+
+### #is_/same_as :: [Botswana~South-East](/_Standards/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South-East.md) 
+
+### #is_/same_as :: [Botswana~South-East.public](/_public/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South-East.public.md) 
+
+### #is_/same_as :: [Botswana~South-East.internal](/_internal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South-East.internal.md) 
+
+### #is_/same_as :: [Botswana~South-East.protect](/_protect/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South-East.protect.md) 
+
+### #is_/same_as :: [Botswana~South-East.private](/_private/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South-East.private.md) 
+
+### #is_/same_as :: [Botswana~South-East.personal](/_personal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South-East.personal.md) 
+
+### #is_/same_as :: [Botswana~South-East.secret](/_secret/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South-East.secret.md)
 

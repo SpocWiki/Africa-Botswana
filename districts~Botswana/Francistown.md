@@ -40,11 +40,18 @@ markerFolder: ./Francistown/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Botswana/Counties/Francistown|Francistown]] 
-- [[../../../../../../_public/geo/Continent/Africa/Botswana/Counties/Francistown.public|Francistown.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Botswana/Counties/Francistown.internal|Francistown.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Botswana/Counties/Francistown.protect|Francistown.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Botswana/Counties/Francistown.private|Francistown.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Botswana/Counties/Francistown.personal|Francistown.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Botswana/Counties/Francistown.secret|Francistown.secret]] 
+
+### #is_/same_as :: [Francistown](/_Standards/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Francistown.md) 
+
+### #is_/same_as :: [Francistown.public](/_public/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Francistown.public.md) 
+
+### #is_/same_as :: [Francistown.internal](/_internal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Francistown.internal.md) 
+
+### #is_/same_as :: [Francistown.protect](/_protect/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Francistown.protect.md) 
+
+### #is_/same_as :: [Francistown.private](/_private/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Francistown.private.md) 
+
+### #is_/same_as :: [Francistown.personal](/_personal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Francistown.personal.md) 
+
+### #is_/same_as :: [Francistown.secret](/_secret/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Francistown.secret.md)
 

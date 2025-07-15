@@ -40,11 +40,18 @@ markerFolder: ./Kgalagadi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Botswana/Counties/Kgalagadi|Kgalagadi]] 
-- [[../../../../../../_public/geo/Continent/Africa/Botswana/Counties/Kgalagadi.public|Kgalagadi.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Botswana/Counties/Kgalagadi.internal|Kgalagadi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Botswana/Counties/Kgalagadi.protect|Kgalagadi.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Botswana/Counties/Kgalagadi.private|Kgalagadi.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Botswana/Counties/Kgalagadi.personal|Kgalagadi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Botswana/Counties/Kgalagadi.secret|Kgalagadi.secret]] 
+
+### #is_/same_as :: [Kgalagadi](/_Standards/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kgalagadi.md) 
+
+### #is_/same_as :: [Kgalagadi.public](/_public/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kgalagadi.public.md) 
+
+### #is_/same_as :: [Kgalagadi.internal](/_internal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kgalagadi.internal.md) 
+
+### #is_/same_as :: [Kgalagadi.protect](/_protect/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kgalagadi.protect.md) 
+
+### #is_/same_as :: [Kgalagadi.private](/_private/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kgalagadi.private.md) 
+
+### #is_/same_as :: [Kgalagadi.personal](/_personal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kgalagadi.personal.md) 
+
+### #is_/same_as :: [Kgalagadi.secret](/_secret/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kgalagadi.secret.md)
 

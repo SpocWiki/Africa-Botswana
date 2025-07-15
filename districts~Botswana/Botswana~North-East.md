@@ -40,11 +40,18 @@ markerFolder: ./North-East/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Botswana/Counties/North-East|North-East]] 
-- [[../../../../../../_public/geo/Continent/Africa/Botswana/Counties/North-East.public|North-East.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Botswana/Counties/North-East.internal|North-East.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Botswana/Counties/North-East.protect|North-East.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Botswana/Counties/North-East.private|North-East.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Botswana/Counties/North-East.personal|North-East.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Botswana/Counties/North-East.secret|North-East.secret]] 
+
+### #is_/same_as :: [Botswana~North-East](/_Standards/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~North-East.md) 
+
+### #is_/same_as :: [Botswana~North-East.public](/_public/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~North-East.public.md) 
+
+### #is_/same_as :: [Botswana~North-East.internal](/_internal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~North-East.internal.md) 
+
+### #is_/same_as :: [Botswana~North-East.protect](/_protect/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~North-East.protect.md) 
+
+### #is_/same_as :: [Botswana~North-East.private](/_private/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~North-East.private.md) 
+
+### #is_/same_as :: [Botswana~North-East.personal](/_personal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~North-East.personal.md) 
+
+### #is_/same_as :: [Botswana~North-East.secret](/_secret/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~North-East.secret.md)
 

@@ -129,10 +129,4 @@ Capital :: [[Gaborone]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Botswana|Botswana]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~South/Botswana.internal|Botswana.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~South/Botswana.protect|Botswana.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~South/Botswana.private|Botswana.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~South/Botswana.personal|Botswana.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~South/Botswana.secret|Botswana.secret]] 
+

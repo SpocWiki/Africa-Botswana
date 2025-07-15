@@ -40,11 +40,18 @@ markerFolder: ./Lobatse/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Botswana/Counties/Lobatse|Lobatse]] 
-- [[../../../../../../_public/geo/Continent/Africa/Botswana/Counties/Lobatse.public|Lobatse.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Botswana/Counties/Lobatse.internal|Lobatse.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Botswana/Counties/Lobatse.protect|Lobatse.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Botswana/Counties/Lobatse.private|Lobatse.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Botswana/Counties/Lobatse.personal|Lobatse.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Botswana/Counties/Lobatse.secret|Lobatse.secret]] 
+
+### #is_/same_as :: [Lobatse](/_Standards/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Lobatse.md) 
+
+### #is_/same_as :: [Lobatse.public](/_public/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Lobatse.public.md) 
+
+### #is_/same_as :: [Lobatse.internal](/_internal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Lobatse.internal.md) 
+
+### #is_/same_as :: [Lobatse.protect](/_protect/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Lobatse.protect.md) 
+
+### #is_/same_as :: [Lobatse.private](/_private/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Lobatse.private.md) 
+
+### #is_/same_as :: [Lobatse.personal](/_personal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Lobatse.personal.md) 
+
+### #is_/same_as :: [Lobatse.secret](/_secret/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Lobatse.secret.md)
 

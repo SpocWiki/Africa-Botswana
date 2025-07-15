@@ -40,11 +40,18 @@ markerFolder: ./Selebi-Phikwe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Botswana/Counties/Selebi-Phikwe|Selebi-Phikwe]] 
-- [[../../../../../../_public/geo/Continent/Africa/Botswana/Counties/Selebi-Phikwe.public|Selebi-Phikwe.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Botswana/Counties/Selebi-Phikwe.internal|Selebi-Phikwe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Botswana/Counties/Selebi-Phikwe.protect|Selebi-Phikwe.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Botswana/Counties/Selebi-Phikwe.private|Selebi-Phikwe.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Botswana/Counties/Selebi-Phikwe.personal|Selebi-Phikwe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Botswana/Counties/Selebi-Phikwe.secret|Selebi-Phikwe.secret]] 
+
+### #is_/same_as :: [Selebi-Phikwe](/_Standards/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Selebi-Phikwe.md) 
+
+### #is_/same_as :: [Selebi-Phikwe.public](/_public/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Selebi-Phikwe.public.md) 
+
+### #is_/same_as :: [Selebi-Phikwe.internal](/_internal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Selebi-Phikwe.internal.md) 
+
+### #is_/same_as :: [Selebi-Phikwe.protect](/_protect/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Selebi-Phikwe.protect.md) 
+
+### #is_/same_as :: [Selebi-Phikwe.private](/_private/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Selebi-Phikwe.private.md) 
+
+### #is_/same_as :: [Selebi-Phikwe.personal](/_personal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Selebi-Phikwe.personal.md) 
+
+### #is_/same_as :: [Selebi-Phikwe.secret](/_secret/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Selebi-Phikwe.secret.md)
 

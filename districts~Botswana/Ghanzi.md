@@ -40,17 +40,17 @@ markerFolder: ./Ghanzi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ghanzi](/_Standards/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Ghanzi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Ghanzi|Ghanzi]] 
 
-### #is_/same_as :: [Ghanzi.public](/_public/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Ghanzi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Ghanzi.public|Ghanzi.public]] 
 
-### #is_/same_as :: [Ghanzi.internal](/_internal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Ghanzi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Ghanzi.internal|Ghanzi.internal]] 
 
-### #is_/same_as :: [Ghanzi.protect](/_protect/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Ghanzi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Ghanzi.protect|Ghanzi.protect]] 
 
-### #is_/same_as :: [Ghanzi.private](/_private/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Ghanzi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Ghanzi.private|Ghanzi.private]] 
 
-### #is_/same_as :: [Ghanzi.personal](/_personal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Ghanzi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Ghanzi.personal|Ghanzi.personal]] 
 
-### #is_/same_as :: [Ghanzi.secret](/_secret/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Ghanzi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Ghanzi.secret|Ghanzi.secret]] 
 

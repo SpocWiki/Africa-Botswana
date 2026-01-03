@@ -40,17 +40,17 @@ markerFolder: ./Kgatleng/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kgatleng](/_Standards/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kgatleng.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kgatleng|Kgatleng]] 
 
-### #is_/same_as :: [Kgatleng.public](/_public/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kgatleng.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kgatleng.public|Kgatleng.public]] 
 
-### #is_/same_as :: [Kgatleng.internal](/_internal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kgatleng.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kgatleng.internal|Kgatleng.internal]] 
 
-### #is_/same_as :: [Kgatleng.protect](/_protect/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kgatleng.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kgatleng.protect|Kgatleng.protect]] 
 
-### #is_/same_as :: [Kgatleng.private](/_private/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kgatleng.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kgatleng.private|Kgatleng.private]] 
 
-### #is_/same_as :: [Kgatleng.personal](/_personal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kgatleng.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kgatleng.personal|Kgatleng.personal]] 
 
-### #is_/same_as :: [Kgatleng.secret](/_secret/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kgatleng.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Kgatleng.secret|Kgatleng.secret]] 
 

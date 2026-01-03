@@ -40,17 +40,17 @@ markerFolder: ./Selebi-Phikwe/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Selebi-Phikwe](/_Standards/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Selebi-Phikwe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Selebi-Phikwe|Selebi-Phikwe]] 
 
-### #is_/same_as :: [Selebi-Phikwe.public](/_public/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Selebi-Phikwe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Selebi-Phikwe.public|Selebi-Phikwe.public]] 
 
-### #is_/same_as :: [Selebi-Phikwe.internal](/_internal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Selebi-Phikwe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Selebi-Phikwe.internal|Selebi-Phikwe.internal]] 
 
-### #is_/same_as :: [Selebi-Phikwe.protect](/_protect/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Selebi-Phikwe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Selebi-Phikwe.protect|Selebi-Phikwe.protect]] 
 
-### #is_/same_as :: [Selebi-Phikwe.private](/_private/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Selebi-Phikwe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Selebi-Phikwe.private|Selebi-Phikwe.private]] 
 
-### #is_/same_as :: [Selebi-Phikwe.personal](/_personal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Selebi-Phikwe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Selebi-Phikwe.personal|Selebi-Phikwe.personal]] 
 
-### #is_/same_as :: [Selebi-Phikwe.secret](/_secret/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Selebi-Phikwe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Selebi-Phikwe.secret|Selebi-Phikwe.secret]] 
 

@@ -70,17 +70,17 @@ markerFolder: ./Gaborone/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gaborone](/_Standards/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Gaborone.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Gaborone|Gaborone]] 
 
-### #is_/same_as :: [Gaborone.public](/_public/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Gaborone.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Gaborone.public|Gaborone.public]] 
 
-### #is_/same_as :: [Gaborone.internal](/_internal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Gaborone.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Gaborone.internal|Gaborone.internal]] 
 
-### #is_/same_as :: [Gaborone.protect](/_protect/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Gaborone.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Gaborone.protect|Gaborone.protect]] 
 
-### #is_/same_as :: [Gaborone.private](/_private/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Gaborone.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Gaborone.private|Gaborone.private]] 
 
-### #is_/same_as :: [Gaborone.personal](/_personal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Gaborone.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Gaborone.personal|Gaborone.personal]] 
 
-### #is_/same_as :: [Gaborone.secret](/_secret/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Gaborone.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Gaborone.secret|Gaborone.secret]] 
 

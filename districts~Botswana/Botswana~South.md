@@ -40,17 +40,17 @@ markerFolder: ./Botswana~Southern/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Botswana~South](/_Standards/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South|Botswana~South]] 
 
-### #is_/same_as :: [Botswana~South.public](/_public/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South.public|Botswana~South.public]] 
 
-### #is_/same_as :: [Botswana~South.internal](/_internal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South.internal|Botswana~South.internal]] 
 
-### #is_/same_as :: [Botswana~South.protect](/_protect/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South.protect|Botswana~South.protect]] 
 
-### #is_/same_as :: [Botswana~South.private](/_private/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South.private|Botswana~South.private]] 
 
-### #is_/same_as :: [Botswana~South.personal](/_personal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South.personal|Botswana~South.personal]] 
 
-### #is_/same_as :: [Botswana~South.secret](/_secret/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South.secret|Botswana~South.secret]] 
 

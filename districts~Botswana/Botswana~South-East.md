@@ -40,17 +40,17 @@ markerFolder: ./South-East/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Botswana~South-East](/_Standards/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South-East.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South-East|Botswana~South-East]] 
 
-### #is_/same_as :: [Botswana~South-East.public](/_public/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South-East.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South-East.public|Botswana~South-East.public]] 
 
-### #is_/same_as :: [Botswana~South-East.internal](/_internal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South-East.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South-East.internal|Botswana~South-East.internal]] 
 
-### #is_/same_as :: [Botswana~South-East.protect](/_protect/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South-East.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South-East.protect|Botswana~South-East.protect]] 
 
-### #is_/same_as :: [Botswana~South-East.private](/_private/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South-East.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South-East.private|Botswana~South-East.private]] 
 
-### #is_/same_as :: [Botswana~South-East.personal](/_personal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South-East.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South-East.personal|Botswana~South-East.personal]] 
 
-### #is_/same_as :: [Botswana~South-East.secret](/_secret/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South-East.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Botswana/districts~Botswana/Botswana~South-East.secret|Botswana~South-East.secret]] 
 

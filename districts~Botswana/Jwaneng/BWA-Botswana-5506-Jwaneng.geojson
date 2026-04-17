@@ -1,1 +1,2 @@
-﻿{"geometry": {"coordinates": [[[24.81361, -24.51186], [24.82058, -24.65204], [24.63765, -24.66033], [24.63966, -24.46118], [24.81361, -24.51186]]], "type": "Polygon"}, "properties": {"ISO3166-1-Alpha-3": "BWA", "country": "Botswana", "fill": "#FF0", "id": "5506", "name": "Jwaneng"}, "type": "Feature"}
+{"type":"Feature","properties":{"ISO3166-1-Alpha-3":"BWA","country":"Botswana","fill":"#FF0","id":"5506","name":"Jwaneng"},
+"geometry":{"type": "Polygon","coordinates": [[[24.81361,-24.51186,1195.3423],[24.63966,-24.46118,1158.425],[24.63765,-24.66033,1180.9694],[24.82058,-24.65204,1209.5669],[24.81361,-24.51186,1195.3423]]]}}
